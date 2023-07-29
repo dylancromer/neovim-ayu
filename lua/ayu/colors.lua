@@ -25,7 +25,7 @@ function colors.generate(mirage)
       colors.comment = '#5C6773'
       colors.constant = '#D4BFFF'
       colors.operator = '#F29E74'
-      colors.error = '#FF3333'
+      colors.error = '#f04762'
       colors.lsp_parameter = '#D3B8F9'
 
       colors.line = '#191E2A'
@@ -66,7 +66,7 @@ function colors.generate(mirage)
       colors.comment = '#626A73'
       colors.constant = '#FFEE99'
       colors.operator = '#F29668'
-      colors.error = '#FF3333'
+      colors.error = '#f04762'
       colors.lsp_parameter = '#CB9FF8'
 
       colors.line = '#00010A'
