@@ -10,7 +10,8 @@ function colors.generate(mirage)
     if mirage then
       colors.accent = '#FFCC66'
       colors.bg = '#1F2430'
-      colors.fg = '#CBCCC6'
+      --colors.fg = '#CBCCC6'
+      colors.fg = '#d8d9d2'
       colors.ui = '#707A8C'
 
       colors.tag = '#5CCFE6'
