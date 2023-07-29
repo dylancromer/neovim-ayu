@@ -11,7 +11,7 @@ function colors.generate(mirage)
       colors.accent = '#FFCC66'
       colors.bg = '#1F2430'
       --colors.fg = '#CBCCC6'
-      colors.fg = '#d8d9d2'
+      colors.fg = '#dedfd8'
       colors.ui = '#707A8C'
 
       colors.tag = '#5CCFE6'
